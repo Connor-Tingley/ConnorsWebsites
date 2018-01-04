@@ -1,8 +1,26 @@
-.spacerBlock{
+.titleBlock{
 	display: inline-block;
-	width: 31.25%;
-	margin: -20px;
-	height: 12.5vw;
+    position: static;
+    font-family: Georgia;
+	color: rgb(229,229,229);
+	text-align: center;
+    font-size: 200%;
+    width: 110%;
+    margin: -10px -5% 5vh -5%;
+	background-color: rgb(5, 5, 5)
+}
+#linkid {
+    background: grey;
+    display: block;
+    width: 25%;
+}
+.textBlock {
+    background: black;
+    display: block;
+    width: 100%;
+    height: 20%;
+    margin: 0px
+    padding: 0px;
 }
 .numberBlock{
 	display: inline-block;
