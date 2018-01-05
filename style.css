@@ -26,18 +26,32 @@ table.host{
     background: grey;
     margin: 0 auto;
     display: block;
+<<<<<<< HEAD
+<<<<<<< HEAD
     width: 75%;
 }
 .not-active {
   pointer-events: none;
   cursor: default;
+=======
+    width: 85%;
+>>>>>>> aa6422c23b40581845effb5213c7acd2d1b07f5c
+=======
+    width: 85%;
+>>>>>>> aa6422c23b40581845effb5213c7acd2d1b07f5c
 }
 img{
 	margin:  0px;
     padding: 0px;
 }
 .textBlock {
+<<<<<<< HEAD
+<<<<<<< HEAD
 	font-size: 200%;
+=======
+>>>>>>> aa6422c23b40581845effb5213c7acd2d1b07f5c
+=======
+>>>>>>> aa6422c23b40581845effb5213c7acd2d1b07f5c
 	text-decoration: none;
     background: rgb(200, 200, 200);
     display: block;
