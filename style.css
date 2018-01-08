@@ -6,9 +6,10 @@ body{
 	background-color: rgb(255,255,255) 
 }
 td{
-	
+	height: 75px;
 }
 table.host{
+	height: 75px;
 }
 .titleBlock{
 	display: inline-block;
@@ -31,6 +32,7 @@ table.host{
 .not-active {
   pointer-events: none;
   cursor: default;
+  font-size: 150%;
 }
 img{
 	margin:  0px;
@@ -44,6 +46,7 @@ img{
     width: 90%;
     height: 20%;
     margin-top: -10px;
+    margin-bottom: 20px;
     padding: 5%;
     vertical-align: top;
     font-family: Georgia;
